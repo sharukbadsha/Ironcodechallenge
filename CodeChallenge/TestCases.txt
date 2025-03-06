@@ -1,0 +1,19 @@
+﻿Test case :
+
+1. Actual inputs: 
+Ex: 33#
+
+2. Actual input with backspace :
+Ex: 227*#
+
+3. Input with space:
+Ex: 4433555 555666#
+
+4. Input with backspace and space:
+Ex: 8 88777444666*664#
+
+5. Input with multiple presses
+Ex: 2222#
+
+6. Input with reusing same number:
+Ex: 222 2 22#

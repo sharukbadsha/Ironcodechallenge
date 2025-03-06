@@ -1,0 +1,14 @@
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\bin\Debug\net6.0\CodeChallenge.exe
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\bin\Debug\net6.0\CodeChallenge.deps.json
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\bin\Debug\net6.0\CodeChallenge.runtimeconfig.json
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\bin\Debug\net6.0\CodeChallenge.dll
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\bin\Debug\net6.0\CodeChallenge.pdb
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.AssemblyInfo.cs
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.dll
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\refint\CodeChallenge.dll
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.pdb
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.genruntimeconfig.cache
+C:\Users\HP Laptop\source\repos\CodeChallenge\CodeChallenge\obj\Debug\net6.0\ref\CodeChallenge.dll
